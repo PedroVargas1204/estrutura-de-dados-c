@@ -11,10 +11,14 @@
             "id": "d62fb303f1cac743",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "README"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,19 +189,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "961d77e721451758",
+  "active": "d62fb303f1cac743",
   "lastOpenFiles": [
+    "codigo/unidade02-fundamentos/exercicios-lista-01/ex01.c",
+    "codigo/unidade02-fundamentos/exercicios-lista-01/ex01",
+    "codigo/unidade02-fundamentos/exercicios-lista-01/oi",
+    "codigo/unidade02-fundamentos/exercicios-lista-01",
+    "codigo/exercicios/ex2.c",
+    "codigo/exercicios/exercicio-1 copy.c",
+    "codigo/exercicios/exercicio-1.c",
+    "codigo/exercicios/exerciciosteste.c",
     "README.mdcd",
     "codigo/unidade05-tad/01-tad-matriz/matriz.c",
     "codigo/unidade05-tad/01-tad-matriz/matriz.h",
-    "codigo/unidade05-tad/01-tad-matriz/Makefile",
-    "codigo/unidade05-tad/01-tad-matriz/cliente_matriz.c",
-    "codigo/unidade05-tad/01-tad-matriz",
-    "codigo/unidade05-tad",
-    "codigo/unidade04-strings",
-    "codigo/unidade03-matrizes",
-    "codigo/unidade02-fundamentos",
-    "materiais/aulas/C-material-consolidado.md",
-    "codigo/exercicios/unidade05-tad-matriz/cliente_matriz"
+    "materiais/aulas/C-material-consolidado.md"
   ]
 }
