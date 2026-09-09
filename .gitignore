@@ -4,3 +4,7 @@
 cliente_matriz
 .obsidian/workspace.json
 .obsidian/cache
+
+cliente_matriz
+*.o
+*.out
