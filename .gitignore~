@@ -13,3 +13,6 @@ a.out
 # Windows
 Thumbs.db
 desktop.ini
+
+cliente_matriz
+*.o
