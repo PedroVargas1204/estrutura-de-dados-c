@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "materiais/aulas",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "showUnsupportedFiles": true
 }

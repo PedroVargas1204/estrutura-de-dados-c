@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8b5705713d642761",
+        "id": "17ccb0de48fcfb01",
         "type": "tabs",
         "children": [
           {
-            "id": "5b9432f0deadb3ff",
+            "id": "d62fb303f1cac743",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "materiais/aulas/C-material-consolidado.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "C-material-consolidado"
+              "title": "Nova aba"
             }
           }
         ]
@@ -83,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb5b0e5e5fff5cd3",
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materiais/aulas/C-material-consolidado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "materiais/aulas/C-material-consolidado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "materiais/aulas/C-material-consolidado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,18 +182,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b9432f0deadb3ff",
+  "active": "961d77e721451758",
   "lastOpenFiles": [
-    "codigo/exercicios/unidade05-tad-matriz/cliente_matriz",
-    "codigo/exercicios/unidade05-tad-matriz/cliente_matriz.o",
-    "codigo/exercicios/unidade05-tad-matriz/matriz.o",
-    "codigo/exercicios/unidade05-tad-matriz/Makefile",
-    "codigo/exercicios/unidade05-tad-matriz/cliente_matriz.c",
-    "codigo/exercicios/unidade05-tad-matriz/cliente_matriz.c.tmp.21444.fc98776a3aaa",
-    "codigo/exercicios/unidade05-tad-matriz/matriz.c",
-    "codigo/exercicios/unidade05-tad-matriz/matriz.h",
-    "codigo/exercicios/unidade05-tad-matriz/matriz.h.tmp.21444.0bb9e84b620f",
-    "codigo/exercicios/unidade05-tad-matriz",
-    "install.cmd"
+    "README.mdcd",
+    "codigo/unidade05-tad/01-tad-matriz/matriz.c",
+    "codigo/unidade05-tad/01-tad-matriz/matriz.h",
+    "codigo/unidade05-tad/01-tad-matriz/Makefile",
+    "codigo/unidade05-tad/01-tad-matriz/cliente_matriz.c",
+    "codigo/unidade05-tad/01-tad-matriz",
+    "codigo/unidade05-tad",
+    "codigo/unidade04-strings",
+    "codigo/unidade03-matrizes",
+    "codigo/unidade02-fundamentos",
+    "materiais/aulas/C-material-consolidado.md",
+    "codigo/exercicios/unidade05-tad-matriz/cliente_matriz"
   ]
 }
