@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.out
+cliente_matriz
+.obsidian/workspace.json
+.obsidian/cache
